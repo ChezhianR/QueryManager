@@ -1,0 +1,14 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\bin\Debug\QueryManager.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\bin\Debug\QueryManager.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\bin\Debug\QueryManager.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\App.g.cs
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager_MarkupCompile.lref
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\MainWindow.baml
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager.g.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\QueryManager\QueryManager\obj\Debug\QueryManager.csprojResolveAssemblyReference.cache
